@@ -1,9 +1,4 @@
-/*
- * <p>Copyright ® 中国证监会中央监管信息平台版权所有。</p>
- * 类名: test
- * 创建人: user    
- * 创建时间: 2015年11月29日
- */
+
 
 package org.wsh.mybatistest;
 

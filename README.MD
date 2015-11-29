@@ -1,0 +1,1 @@
+https://github.com/wangshihui/mybatis-Maven-Generator-demo.git
